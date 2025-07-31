@@ -1,0 +1,101 @@
+id,address,city,state,price,bedrooms,bathrooms,area_sqft,listing_date,agent_name,email
+1,43321 Brittany Bypass,Los Angeles,NY,827572,2,2,2753,2025-03-11,Daniel Wagner,jennifermiles@robinson-lawrence.com
+2,654 Jason Track,Los Angeles,CA,826646,1,4,4967,2025-05-19,Brandon Davis,invalid-email
+3,407 Teresa Lane Apt. 849,Los Angeles,CA,293962,5,1,4639,2024-03-02,Heidi Lee,stanleykendra@wyatt.biz
+4,525 Clark Grove Apt. 928,Houston ,TX,281148,5,3,4179,2023-09-20,Carla Gray,megan03@trujillo.com
+5,537 Wilkerson Row,New York,CA,782052,3,3,3962,2024-01-17,Derek Wright,zhurst@yahoo.com
+6,710 Eric Estate,San Francisco,NY,147251,1,3,3612,2025-01-09,Jennifer Brown,jrice@gmail.com
+7,845 Kelly Estate,los angeles,IL,896335,4,1,855,2024-03-18,Troy Liu,williamrodriguez@hotmail.com
+8,52880 Burns Creek,San Fransico,NY,628856,5,3,2901,2023-10-05,Sherry Decker,brianhumphrey@gmail.com
+9,82278 Joseph Well Suite 383,Los Angeles,NY,743384,3,1,2366,2024-02-08,Jennifer Powers,clam@gmail.com
+10,50983 Adrian Station,Los Angeles,TX,341476,3,2,4214,2024-01-13,Crystal Whitehead,palmerjoshua@yahoo.com
+11,997 Kristen Valley,Houston,CA,329946,5,2,1084,2025-01-04,Brandon Hopkins,ujenkins@gmail.com
+12,65133 Amanda Dam,Houston,CA,534714,3,2,3608,2023-10-11,Donald Wright,jmorton@williams.com
+13,67736 Franklin Alley,New York,CA,911722,3,4,762,2023-09-14,Mrs. Rachel Gibson,smoore@gmail.com
+14,500 Shaw Walk,Houston,AZ,968938,2,4,3077,2024-10-22,Amy Romero,larsonemma@powell.com
+15,169 Donovan Ford,chicago,CA,327746,2,3,1643,2023-09-25,Emily Baker,stephen10@howell-hart.com
+16,425 Natasha Land,San Fransico,AZ,468801,2,2,3465,2023-10-19,Jeffrey Daniels,contrerasangela@hotmail.com
+17,1182 Campbell Fords,Los Angeles,NY,952931,2,2,1398,2024-12-04,Christina Walters,dking@gmail.com
+18,0052 Martin Mills Suite 801,San Fransico,AZ,116613,4,4,3652,2025-06-28,Stephen Mckee,brandi26@williams.com
+19,31586 Sara Freeway Apt. 260,Houston ,NY,763328,5,3,1438,2024-05-23,Tim Patton,josephcobb@gmail.com
+20,3375 Hoover Well,San Francisco,NY,357757,2,4,4061,2024-04-10,Alexander Lee,invalid-email
+21,45868 Crosby Crescent Suite 294,Phoenix,AZ,848975,5,1,1963,2024-05-25,Kyle Reed,gobrien@gmail.com
+22,0608 Michael Cliff,Phoenix,CA,582323,2,3,2129,2024-06-21,Tammie Hanson,william65@terry-spencer.com
+23,299 Sullivan Village Apt. 443,Houston ,AZ,50599,4,1,3155,2024-08-01,Kevin Pena,nramos@hotmail.com
+24,148 Davis Terrace,San Francisco,IL,301083,2,1,974,2023-12-29,Eric Drake,williamstracey@atkinson.org
+25,6320 Kimberly Forges Apt. 870,chicago,NY,847549,2,2,4863,2024-06-26,Sylvia Martinez,jcontreras@stewart.net
+26,77434 Sims Harbor Suite 143,Houston ,CA,327932,5,4,4822,2024-06-17,Francisco Fernandez,jessebenson@lewis.info
+27,66909 Woods Knoll,Houston ,CA,773378,3,4,2147,2023-08-22,James Snow,tracynelson@yahoo.com
+28,6272 Rebecca Ramp Apt. 162,San Francisco,TX,993313,4,1,4739,2024-03-03,Catherine Green,shawnrogers@yahoo.com
+29,1708 Zoe Keys Apt. 100,Los Angeles,IL,72056,5,2,2385,2023-11-26,Christina Smith,invalid-email
+30,71937 Wang Expressway,New York,CA,120674,3,1,757,2023-09-28,Tracey Higgins,daniel04@byrd.com
+31,49190 Patel Shore,Phoenix,CA,558993,5,2,2255,2025-06-22,Jonathan Peterson,xgarcia@hotmail.com
+32,262 Gilbert Plain Suite 769,los angeles,AZ,545631,4,4,2490,2023-12-19,Samuel Rivas,nicole37@bishop.com
+33,54549 Peters Path Apt. 136,Los Angeles,CA,501989,4,4,3402,2024-01-19,Peter Vaughn DDS,fmcguire@yahoo.com
+34,349 Kennedy Pines Suite 685,New York,CA,735197,1,4,1306,2025-02-23,Jesse Parker,griffithleslie@herrera.com
+35,9894 Marissa Hill Apt. 524,Los Angeles,CA,250896,5,4,2058,2024-07-29,Joseph Hill,heidi27@salas.com
+36,5204 Wilson Circles Suite 719,Chicago,IL,535100,1,4,2546,2024-11-12,Amy Hernandez,mcknightdavid@yahoo.com
+37,677 Dalton Meadow,Houston ,NY,103045,1,1,4928,2023-09-27,Marc Lynch,colleenbaker@moore.net
+38,67974 Jesse Squares,Houston,CA,476156,4,2,4478,2025-07-05,Scott Jones,kristin93@wilson-walker.com
+39,10249 Gonzales Mountain Suite 648,New York,CA,447382,4,3,517,2025-01-04,Jessica George,cassandra01@gmail.com
+40,490 Thomas Run,chicago,IL,493555,2,2,4486,2024-06-12,Donald Shea,ecosta@yahoo.com
+41,1256 Roberts Locks Apt. 715,New York,AZ,821476,1,3,4941,2024-01-05,Brian Barton,mgutierrez@cox.com
+42,247 Martinez Roads Apt. 248,los angeles,TX,577276,2,1,4850,2024-08-29,Jason Walker,pvalentine@jimenez.com
+43,7737 Patrick Rapid Apt. 146,Los Angeles,CA,121849,2,4,1056,2024-04-14,Richard Adams,jessica99@burns.com
+44,5339 Hall Trail Suite 057,los angeles,CA,657040,5,1,825,2023-10-16,Roberta Hughes,ihanna@sanford.info
+45,26217 Morgan Square Suite 158,los angeles,AZ,598177,3,2,3091,2025-07-15,Eugene Higgins,williamsonjimmy@hotmail.com
+46,16117 Heather Burgs Apt. 504,San Francisco,CA,328517,2,3,3742,2024-11-23,Jeffrey Sanchez,georgemiller@yahoo.com
+47,9237 Stevens Shores,Los Angeles,NY,530547,1,2,1319,2025-05-17,Robert Santana,alexandermichael@evans.info
+48,67136 Andrews Squares Suite 064,Chicago,IL,973653,2,3,1063,2024-12-06,Sean Osborne,swall@lawson.com
+49,421 Kyle Mill,chicago,AZ,787715,5,1,2978,2025-04-01,Jacob Anderson,julie23@gmail.com
+50,842 Sloan Orchard Suite 517,Houston ,IL,745613,2,3,1348,2024-09-19,Brenda Levy,christopher60@yahoo.com
+51,5496 Rodriguez Fort,Los Angeles,CA,630097,3,3,1773,2025-07-06,Manuel Hahn,deborahreid@yahoo.com
+52,612 Sophia Hollow Suite 113,San Francisco,CA,770892,5,4,2662,2024-11-20,Brandy Chavez,nicolepena@yahoo.com
+53,0537 Sampson Walk Suite 158,New York,NY,715095,3,1,3969,2024-03-01,Maria Brown,invalid-email
+54,71390 Kristin Gardens,Chicago,CA,324680,4,4,1823,2024-03-02,Rachel Harris DVM,lisahall@kramer.com
+55,84210 Alexis Turnpike,Los Angeles,NY,976004,5,1,1721,2025-03-01,Leah Smith,martinezrobert@gmail.com
+56,7589 Shannon Forges,los angeles,AZ,205287,2,1,4020,2024-08-06,Amanda Logan,bschneider@gmail.com
+57,1771 Marc Drive Apt. 249,New York,IL,270281,1,3,2544,2025-04-07,Kimberly Nguyen,bwagner@gmail.com
+58,836 Beasley Loop,San Fransico,AZ,835884,2,2,1766,2023-10-09,Jesse Perry,ronald45@mcdaniel.com
+59,61528 Brenda Points,Chicago,TX,75990,3,4,1969,2023-10-19,Meagan Jenkins,schmittcaroline@yahoo.com
+60,73158 Wilson Harbors,Houston,IL,216931,4,1,1385,2024-10-12,Renee Bruce,anthony44@bell-white.com
+61,20183 Barnes Junctions Apt. 545,Houston,CA,906253,3,3,4270,2024-07-08,Latoya Miller,ericwilliamson@miller.org
+62,3815 Rodriguez Springs Suite 840,Houston,CA,74813,4,3,2082,2023-12-14,William Brown,sierra24@murphy-smith.biz
+63,8388 Jones Wall,Los Angeles,IL,418203,4,3,4673,2023-12-11,Jessica Stevens,barbara96@bowman.com
+64,516 John Radial Suite 816,Los Angeles,IL,237241,1,1,2674,2024-01-30,Nichole Walker,dixondaniel@lee.com
+65,43292 Gregory Trail,San Francisco,CA,874629,4,1,3069,2023-09-22,Julie Elliott,michelle52@yahoo.com
+66,4490 Romero Inlet Suite 700,los angeles,CA,317095,4,1,863,2024-04-05,Dustin Newman,jford@huang.com
+67,207 Lisa Villages Suite 182,Houston ,CA,804377,3,4,2114,2025-04-04,Michael Ritter,nathan46@schroeder-shelton.com
+68,51864 Cummings Shoals Apt. 519,San Francisco,AZ,379164,3,3,1520,2024-10-07,Sydney Collins,brookehurley@yahoo.com
+69,528 Debbie Manors Suite 054,San Francisco,TX,781076,5,2,2922,2024-03-16,Daniel Meza,jeremytaylor@gmail.com
+70,880 Walter River,San Fransico,CA,834475,5,3,1925,2024-01-28,James Martin,xwilliams@ball.info
+71,7359 Murray Haven,New York,IL,350850,4,3,2221,2024-10-03,Kathryn Barnes,laurietaylor@williams-castillo.com
+72,814 Kathryn Groves,chicago,CA,274082,4,2,4687,2024-05-16,Jose Guerra,lisawilkerson@perry.net
+73,1530 Galvan Villages,Phoenix,AZ,746101,1,2,3245,2024-02-14,Gabriela Thomas,samantha72@harrison.com
+74,89861 Young Crossing,Houston,CA,204511,1,2,700,2024-09-19,Jason Bauer,rodriguezrebecca@hotmail.com
+75,893 Kelly Alley,los angeles,NY,527538,5,2,3895,2023-09-02,Cynthia Butler,carlos88@hartman.info
+76,4051 Allen Shoals Apt. 952,San Fransico,TX,469066,2,1,2498,2023-08-28,Joshua Li,epollard@white.info
+77,03054 Hays Plains Suite 403,Los Angeles,TX,279471,5,4,1940,2025-02-27,Scott Williams,david56@yahoo.com
+78,5277 Glass Path Suite 161,Houston,NY,528634,4,3,1592,2024-07-11,Zachary White,curtis54@yahoo.com
+79,75705 Hill Turnpike Apt. 165,chicago,AZ,904596,4,4,4635,2024-05-07,Nicole Moore,melindagregory@johnson-jones.com
+80,092 Rush Landing Suite 192,chicago,TX,321782,3,4,2525,2025-01-27,Jennifer Banks,johnsonjacob@hughes.com
+81,94731 Melissa Mission Apt. 715,Phoenix,TX,131247,2,3,2840,2024-01-21,Michelle Pierce,melissa25@hotmail.com
+82,23705 Mcdonald Plaza,Houston ,NY,195095,2,4,1735,2025-04-30,Stephen Jones,xfox@yahoo.com
+83,51778 Anderson Village,Houston,NY,485020,3,4,3839,2023-12-03,Margaret White,dshaw@holmes.com
+84,358 Singleton Glen Apt. 842,Houston,TX,458396,5,4,660,2023-10-02,Lisa Davis,georgeweber@morgan.com
+85,943 Montgomery Burgs,San Francisco,IL,840075,4,2,3694,2024-06-17,Mr. Dylan Frye MD,shawn02@yahoo.com
+86,3592 Hensley Island Suite 625,Phoenix,TX,559232,4,3,737,2024-06-19,Ashley Allen,shannon21@roberts.org
+87,59532 Ferrell Mountain,San Fransico,CA,223061,2,1,4328,2024-03-08,Mr. Alexander Landry MD,brandywilliams@simpson-khan.info
+88,62456 Williams Center,los angeles,AZ,745205,1,4,722,2023-11-07,Chloe Tran,wgordon@ramirez.com
+89,5585 James Pass,chicago,CA,102727,4,3,2631,2025-06-23,Andrew Williams,jstone@hotmail.com
+90,9526 Wheeler Parkways,San Francisco,IL,848207,3,4,3605,2025-01-04,Kim Erickson,xcabrera@yahoo.com
+91,9409 Baker Shoal,Los Angeles,TX,70324,1,3,4918,2023-08-24,Paula Lane,ojackson@harvey.com
+92,07562 Vaughn Loop,Los Angeles,CA,92213,2,2,754,2025-07-08,Lisa Ruiz,aprilhoffman@mendoza.info
+93,549 Lee Gateway Suite 843,los angeles,CA,300132,4,1,1534,2024-10-18,Vickie Wise,wstewart@peck.com
+94,5240 Moses Common Suite 747,Houston,TX,783442,3,2,2599,2024-02-04,Ronald Nelson,danielyang@gmail.com
+95,833 Craig Isle,Los Angeles,CA,376147,5,1,1385,2024-04-05,Ashlee Townsend,richarddonovan@woods-gonzalez.com
+96,019 Amanda Stream Apt. 262,los angeles,CA,443537,2,1,3749,2025-06-10,Amanda Huff,sharonhayden@yahoo.com
+97,49915 Gibson Row,Houston,NY,781059,5,1,2970,2025-02-17,Kathleen Mays,james15@gmail.com
+98,420 Gibbs Port Apt. 296,los angeles,NY,414069,4,3,4864,2024-07-11,Kaylee Miller,tinawoods@smith.com
+99,4990 Valdez Square Apt. 017,San Francisco,NY,940844,4,1,3941,2024-11-19,Jared Shaw,fowlershelia@yahoo.com
+100,27279 Perry Plaza,San Francisco,CA,984884,2,4,4266,2023-09-29,Nicole Pham,erinlarson@fox.com
